@@ -1,3 +1,4 @@
+<?php include_once(“home.html”); ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;" lang="ku-IQ"><head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
